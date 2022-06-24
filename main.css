@@ -130,6 +130,7 @@
     border-radius: 50%;
     /*to center this circle, it works only horizontally*/
     margin: auto;
+    padding: 20px;
 }
 
 .key-feature__description {
