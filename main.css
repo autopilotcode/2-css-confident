@@ -6,14 +6,15 @@
     background-position: left 10% bottom 20%;
     background-origin: border-box;
     background-clip: border-box;
-    background-attachment: fixed;*/
+    background-attachment: fixed;
+    /*we used border for understanding background-origin*/
+    /*border: 5px dashed red;*/
     width: 100%;
     height: 528px;
     padding: 10px;
     position: relative;
     margin-top: 40px;
-    /*we used border for understanding background-origin*/
-    border: 5px dashed red;
+    
 }
 
 .section-title {
