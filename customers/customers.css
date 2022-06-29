@@ -1,3 +1,8 @@
+/*2.5rem, because we had 6rem and minus 3.5rem header(for all pages in shared.css)*/
+main {
+  padding-top: 2.5rem;
+}
+
 .testimonial {
     font-size: 1.2rem;
   }
@@ -7,15 +12,16 @@
     margin: auto;
   }*/
   
+  /*removed because we add margin to our <main> element,
+  instead we added padding-top to<main>
   .testimonial:first-of-type {
     margin-top: 6rem;
-  }
+  }*/
 
   .testimonial__image-container {
     width: 100%;
     max-width: 40rem;
-    box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, 0.4);
-    
+    box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, 0.4);    
   }
 
   .testimonial__image {
