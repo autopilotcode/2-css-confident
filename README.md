@@ -16,7 +16,7 @@
 
 * Working with Text and Fonts
 
-Clone this project to your device, open index.html file in your browser and you'll see the result:
+*Clone this project to your device, open* **index.html** *file in your browser and you'll see the result:*
 
 * option 1 ssh (preferable, because more secure): git clone git@github.com:autopilotcode/2_CSS_Confident.git
 
